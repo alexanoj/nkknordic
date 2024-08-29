@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nkknordic/static/css/main.e1697e43.css",
+    "main.js": "/nkknordic/static/js/main.2332c9d7.js",
+    "static/js/453.ddc4868d.chunk.js": "/nkknordic/static/js/453.ddc4868d.chunk.js",
+    "static/media/nkklogo.png": "/nkknordic/static/media/nkklogo.dd3b1700c55d681d6743.png",
+    "index.html": "/nkknordic/index.html",
+    "main.e1697e43.css.map": "/nkknordic/static/css/main.e1697e43.css.map",
+    "main.2332c9d7.js.map": "/nkknordic/static/js/main.2332c9d7.js.map",
+    "453.ddc4868d.chunk.js.map": "/nkknordic/static/js/453.ddc4868d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1697e43.css",
+    "static/js/main.2332c9d7.js"
+  ]
+}
